@@ -1,4 +1,4 @@
-# react-tutorials
+# React Tutorial
 
 Basics of React
 
