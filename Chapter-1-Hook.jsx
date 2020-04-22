@@ -1,6 +1,7 @@
 // useState() function is called a hook in react world. It is similar to a mixin or module. But it is a stateful one
 // that hooks a simple component into a state. It return two elemnts - state object and updater function object
 
+// Component names have to start with upper case first letter
 
 // Create Button with a used state
 
